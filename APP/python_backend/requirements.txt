@@ -1,0 +1,16 @@
+fastapi==0.140.2
+uvicorn==0.51.0
+pydantic==2.13.4
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+torch==2.13.0
+transformers==4.29.2
+tokenizers==0.13.3
+safetensors==0.8.0
+sentencepiece==0.2.2
+textblob==0.20.1
+nltk==3.10.0
+pyabsa==2.4.3
+spacy==3.8.14
